@@ -1,1 +1,2 @@
 Sistema de autenticación
+La API ahora usa autenticación
